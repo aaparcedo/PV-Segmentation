@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=##.#"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pv-segmentation"
+version = "0.1.0"
+description = "Generalized Deep Learning Model for Photovoltaic Module Segmentation from Satellite and Aerial Imagery"
+readme = "README.md"
+requires-python = ">=3.10.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+
+]
+
+[project.urls]
+"Homepage" = "https://github.com/aaparcedo/PV-Segmentation"
+"Bug Tracker" = "https://github.com/aaparcedo/PV-Segmentation/issues"
