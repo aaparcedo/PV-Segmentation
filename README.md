@@ -1,7 +1,7 @@
 # PV-Segmentation
 Pytorch Code for Generalized Deep Learning Model for Photovoltaic Module Segmentation from Satellite and Aerial Imagery
 
-# Installation
+## Installation
 
 1. Clone this repository and navigate to PV-Segmentation folder
 ```bash
@@ -17,4 +17,10 @@ pip install --upgrade pip  # enable PEP 660 support
 pip install -e .
 ```
 
-# Citation
+## Model weights
+
+- DeepLabV3+
+- UNET
+- Mask2Former
+
+## Citation
